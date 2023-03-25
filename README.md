@@ -12,7 +12,7 @@ ____
 ___
 ___
 
-~~to show ~~
+~~to show~~
 
 [link name in here](https://github.com/dashboard)
 
