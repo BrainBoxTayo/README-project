@@ -59,3 +59,5 @@ int main(void)
     cout << "Hello world!" << endl;
 }
 ```
+
+> "we can only justify our privilege by doing hard things" 
